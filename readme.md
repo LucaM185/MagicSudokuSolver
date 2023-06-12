@@ -1,4 +1,4 @@
-This project is interesting because it takes an image as the only input and outputs the right solution for the sudoku
+What makes this project interesting is that it takes an image as the only input and outputs the right solution for the sudoku
 
 1) The screenshots gets quickly analysed to detect straight lines and their intersections
 2) It automatically finds the sudoku form the vertices of the square around it
